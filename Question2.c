@@ -6,7 +6,7 @@ Purpose: Assignment 4, Question 2
 Program Description:
 A memory manager that uses the "Best-Fit" algorithm 
 ------------------------------------------------------------------------------------------
-Author:  Shailendra Singh
+Author:  Adam Scott, Shailendra Singh
 Version  2022-04-04
 ------------------------------------------------------------------------------------------
 */
